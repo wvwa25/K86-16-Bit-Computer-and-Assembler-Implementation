@@ -82,8 +82,11 @@ simulation to end execution.
 
 ## Presentation and Project Website
 
-Video presentation of our computer architecture: https://vimeo.com/1075565416
+[Video presentation](https://youtu.be/IbTwGopyiGQ?si=61_gHIYi0cginJTk) of our computer architecture
+
+[Kennesaw State University Digital Commons Link](https://digitalcommons.kennesaw.edu/cday/Spring_2025/Undergraduate_Research/8/)
 
 Our project website: https://kowi.cc
+
 
 
